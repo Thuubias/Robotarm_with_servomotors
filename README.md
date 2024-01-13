@@ -1,5 +1,5 @@
 # Robotarm_with_servomotors
-I made Arduino robot arm with servomotors, project is still currently going on. So far I have designed the arm, 3D print it, built it and made some python testing code which I will launch here later on. Goal is to make robot arm tooltip controllable with playstation joystick(changes tooltip xy-values) and potentiometer(changes z-value, height) 
+I am making Arduino robot arm with servomotors, project is still currently going on. So far I have designed the arm, 3D print it, built it and made some python testing code which I will launch here later on. Goal is to make robot arm tooltip controllable with playstation joystick(changes tooltip xy-values) and potentiometer(changes z-value, height) 
 Here is physical outlook from it:
 ![20231219_110245](https://github.com/Thuubias/Robotarm_with_servomotors/assets/98958963/7f10a272-677c-429d-82b0-112923b712ca)
 I designed it with Siemens SolidEdge software and 3d-printed it with ultimaker 3d-printer.
